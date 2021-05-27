@@ -5,3 +5,4 @@ Group Values
 # Enjoy Study Everyday
 # I want food
 # lesson 101
+- [ ] new group photo
