@@ -6,3 +6,4 @@ Group Values
 # I want food
 
 ## Welcome Natalia
+- [ ] new group photo
