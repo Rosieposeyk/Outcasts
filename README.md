@@ -4,6 +4,4 @@ Group Values
 # Play Happy Everyday
 # Enjoy Study Everyday
 # I want food
-
-## Welcome Natalia
-- [ ] new group photo
+# lesson 101
