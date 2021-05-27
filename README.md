@@ -5,6 +5,3 @@ Group Values
 # Enjoy Study Everyday
 # I want food
 # lesson 101
-======================
-# Welcome Natalia
-
