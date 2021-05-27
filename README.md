@@ -6,3 +6,5 @@ Group Values
 # I want food
 # lesson 101
 - [ ] new group photo
+
+# stay committed
