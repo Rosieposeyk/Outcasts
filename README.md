@@ -8,3 +8,4 @@ Group Values
 - [ ] new group photo
 
 # stay committed
+Work smarter, not harder
